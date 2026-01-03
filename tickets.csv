@@ -1,0 +1,10 @@
+timestamp,movie,time,seat,type,price,discount_pct,final_price,buyer_name
+2025-12-08 14:30:46,Komedi Gecesi,15:00,A5,Öğrenci,40.00,0,40.00,sude naz aydın
+2025-12-11 16:49:13,Yıldızlara Yolculuk,13:30,B4,Öğrenci,40.00,0,40.00,sude naz aydın
+2025-12-26 18:24:23,Komedi Gecesi,15:00,A4,Çocuk,30.00,0,30.00,12323456
+2025-12-26 18:25:38,Komedi Gecesi,15:00,A3,Çocuk,30.00,0,30.00,12345
+2025-12-26 18:50:30,Komedi Gecesi,15:00,A1,Öğrenci,40.0,sude naz aydın
+2025-12-26 18:51:01,Yıldızlara Yolculuk,13:30,A2,Öğrenci,40.0,sude naz
+2025-12-29 12:49:35,Gölgeler Şehri,14:00,A2,Çocuk,30.0,sude naz aydın2025-12-30 12:15:11,Komedi Gecesi,15:00,A3,Çocuk,30.0,sude naz aydın
+2025-12-30 15:08:33,Yıldızlara Yolculuk,13:30,A1,Çocuk,30.0,sude naz aydın
+2025-12-30 15:18:12,Yıldızlara Yolculuk,13:30,B3,Öğrenci,40.0,sude naz
